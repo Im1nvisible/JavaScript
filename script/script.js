@@ -1,4 +1,4 @@
-"Use strict";
+'use strict';
 
 
 let numberOfFilms =  +prompt("Скільки ви фільмів подивились?", "");
